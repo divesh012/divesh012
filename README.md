@@ -65,13 +65,14 @@
 ## 📌 Featured Projects
 
 🔹 **Medicine Verification System (Blockchain + QR)**
-🔹 **AI Chatbot (LangChain + GenAI)**
+🔹 **Spotify FullStack(react+js)**
+🔹 **Glovii(Salon Slot Book)**
 🔹 **Portfolio Website (React + Tailwind)**
 🔹 **DSA in C++ (Interview Prep Repo)**
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=divesh012&show_icons=true&theme=tokyonight" height="180"/>
@@ -80,7 +81,7 @@
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=divesh012&theme=tokyonight" />
@@ -88,12 +89,12 @@
 
 ---
 
-## 🧠 DSA Progress
+##  DSA Progress
 
-* ✅ Arrays, Strings
-* ✅ Stack, Queue
-* 🔄 Trees, Graphs
-* 🎯 Target: 300+ Problems
+*  Arrays, Strings
+*  Stack, Queue
+*  Trees, Graphs
+*  Target: 300+ Problems
 
 ---
 
