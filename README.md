@@ -6,17 +6,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 💻 Frontend Developer focused on modern UI/UX
-* 🧠 Strong in **DSA using C++**
-* 🌱 Learning **Backend + System Design**
-* 🎯 Goal: Software Engineer in top product company
-* 📫 **[diveshkuthe8556@gmail.com](mailto:diveshkuthe8556@gmail.com)**
+*  Frontend Developer focused on modern UI/UX
+*  Strong in **DSA using C++**
+*  Learning **Backend + System Design**
+*  Goal: Software Engineer in top product company
+*  **[diveshkuthe8556@gmail.com](mailto:diveshkuthe8556@gmail.com)**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/divesh-kuthe" target="_blank">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 🔹 **Medicine Verification System (Blockchain + QR)**
 🔹 **Spotify FullStack(react+js)**
